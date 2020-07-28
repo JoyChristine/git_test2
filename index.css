@@ -1,0 +1,52 @@
+h1 {
+    color: black;
+    font-size: xx-large;
+    background-color: white;
+    text-align: center;
+    font-family: crimso;
+}
+
+table {
+    width: 1300px;
+    border-spacing: 50px;
+    height: 50px;
+}
+
+th {
+    text-align: center;
+}
+
+table,
+th,
+td {
+    border: 2px solid #000;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+th,
+td {
+    padding: 10px;
+}
+
+h3 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: monospace;
+    text-align: start;
+}
+
+.row-container {
+    width: 925px;
+    float: left;
+    padding: 0px;
+    text-align: start;
+}
+
+.row {
+    height: 70px;
+    padding-left: 10px;
+}
